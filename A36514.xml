@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon against bribery preach'd July 8, 1695 in the Cathedral-Church of St. Peter in York before the Right Honourable Mr. Justice Nevill and Baron Turton / by Nath. Drake ...</title>
+            <author>Drake, Nathan, 1659 or 60-1729.</author>
+         </titleStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36514</idno><idno type="EEBO-CITATION">12562773</idno>
+  <idno type="VID">63277</idno>
+  <idno type="EEBO-PROQUEST">2264223693</idno>
+  
+            <idno type="STC">Wing D2126</idno>
+            <idno type="STC">ESTC R20401</idno>
+            <idno type="OCLC">12562773</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63277)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 314:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon against bribery preach'd July 8, 1695 in the Cathedral-Church of St. Peter in York before the Right Honourable Mr. Justice Nevill and Baron Turton / by Nath. Drake ...</title>
+                  <author>Drake, Nathan, 1659 or 60-1729.</author>
+               </titleStmt>
+               <extent>[6], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ... and Francis Hildyard ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Bribery --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63277:1"/>
+            <pb facs="tcp:63277:1"/>
+            <p>A SERMON AGAINST BRIBERY. Preach'd <hi>July</hi> 8. 1695. IN THE Cathedral-Church OF St. <hi>PETER</hi> in <hi>YORK:</hi> Before the Right Honourable Mr. Justice <hi>NEVILL,</hi> AND Baron <hi>TƲRTON</hi>
+            </p>
+            <p>By <hi>NATH. DRAKE,</hi> M. A. and Vicar of <hi>Weighton.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Bishop's-Head</hi> in St. <hi>Paul's Church-Yard,</hi> and <hi>Francis Hildyard,</hi> Bookseller in <hi>York,</hi> 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63277:2"/>
+            <pb facs="tcp:63277:2"/>
+            <head>To the Honourable <hi>INGLE BY DANIEL,</hi> Esq; HIGH-SHERIFF OF THE County of <hi>YORK.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SINCE it was Your Pleasure that this <hi>Sermon</hi> shou'd be made <hi>publick,</hi> and expos'd to the Censures of a Critical Age, the humble Author (tho' pretty <hi>safe</hi> in his own <hi>Obscurity)</hi> is desirous to take shelter under Your Illustrious <hi>Name,</hi> and thinks it but reasonable that the just Authority You have over him, shou'd be responsible for all the hazardous Consequents of such an Ʋnder<g ref="char:EOLhyphen"/>taking.</p>
+            <p>There are Others, indeed, whose Importu<g ref="char:EOLhyphen"/>nity help'd to push me forward to this Ad<g ref="char:EOLhyphen"/>venture, looking upon the Argument as (but too) <hi>seasonable,</hi> and therefore likely to <hi>do Good</hi> at this <hi>Juncture.</hi>
+            </p>
+            <pb facs="tcp:63277:3"/>
+            <p>I wish it may answer the Design of it, which every Good Man will allow to be Just and Honest: But if the Management (which is only to be fear'd) proves lame and defective, then Your Friendship, <hi>SIR,</hi> and Theirs, must be blam'd, for setting an over-value upon this Composure.</p>
+            <p>It will probably be thought one Defect in this Discourse, That having insisted too much upon the <hi>Historical part</hi> of my <hi>Subject,</hi> I have not drawn out the Applications to a <hi>due length,</hi> but have spent more time in <hi>raising</hi> and exposing old <hi>Jewish Ghosts,</hi> than in <hi>lay<g ref="char:EOLhyphen"/>ing</hi> those <hi>Evil Spirits</hi> which the Magick of <hi>Money</hi> has rais'd in our <hi>own Land.</hi> But tho' <hi>Jerusalem</hi> be the <hi>Scene,</hi> and <hi>Israel</hi> the <hi>Actors</hi> in this Wicked Conspiracy, yet the like corrupt Practices being every Day detected, and so publickly known among us, I presently concluded that my Animadversions upon the <hi>Text,</hi> being an unparall'd Instance of <hi>Bribe<g ref="char:EOLhyphen"/>ry,</hi> wou'd with ease be extended to reach all Corruptions of like Complexion, and there<g ref="char:EOLhyphen"/>by supersede many Particulars in the point of <hi>Application.</hi>
+            </p>
+            <p>I'm sorry that Discourses of this Nature shou'd be Licens'd and made necessary by pub<g ref="char:EOLhyphen"/>lick Scandals, and crying Abuses: But when
+<pb facs="tcp:63277:3"/> it is obvious to what <hi>Shrine</hi> some Men sacri<g ref="char:EOLhyphen"/>fice their Consciences; when we hear of <hi>Pri<g ref="char:EOLhyphen"/>vate Purses</hi> unjustly fill'd, and the <hi>Publick Exchequer</hi> much exhausted and drein'd by a se<g ref="char:EOLhyphen"/>cret <hi>Diabetic</hi> Passion. In a Word; When we see what servile and inglorious Practices this Nati<g ref="char:EOLhyphen"/>on must soon have groan'd under, if they had not been happily discover'd, every considering honest Man will so far claim Privilege to be his own Representative, as to put in his <hi>Vote, That</hi> those <hi>felonious Gluttons</hi> who have fed upon the <hi>Publick Treasury,</hi> or eaten the <hi>Children's Bread,</hi> be made to <hi>disgorge</hi> all a<g ref="char:EOLhyphen"/>gain, till they have paid back the <hi>very last Mite.</hi>
+            </p>
+            <p>But we have reason to bless God that there was <hi>Virtue</hi> enough left in the <hi>Fountain</hi> to purge it self; and it is to be hoped that <hi>Men</hi> hereafter will be afraid of that <hi>Rock</hi> on which so many have split of late, while <hi>both Hou<g ref="char:EOLhyphen"/>ses</hi> in a commendable Zeal took up Arms a<g ref="char:EOLhyphen"/>gainst <hi>Solomon</hi>'s <hi>Men of Oblations,</hi> as well the Givers as the Receivers of <hi>Bribes,</hi> by whose Baseness the poor Country might otherwise have been soon <hi>Bought and Sold</hi> into extream Pe<g ref="char:EOLhyphen"/>nury and Slavery.</p>
+            <p>And, indeed, it is to be wish'd, that all other Magistrates, as they love their Coun<g ref="char:EOLhyphen"/>try,
+<pb facs="tcp:63277:4"/> wou'd <hi>strike while the Iron is hot,</hi> left Iniquity at last prevail by Custom, and plead Prescription.</p>
+            <p>But I forbear,—not that I think that these treacherous <hi>Under-hand-Dealers</hi> can be too much expos'd to popular Scorn and Deri<g ref="char:EOLhyphen"/>sion. But left this provoking Subject transport me unto any <hi>Indecent Warmths,</hi> which yet I think more pardonable in this Case than a <hi>fatal Tenderness</hi> and <hi>Forbearance.</hi> I will add no more, but that I glory in hereby pub<g ref="char:EOLhyphen"/>lishing my self,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <lb/>
+               <signed>Your most Obedient,<lb/> and Obliged Servant,<lb/>
+                  <hi>Nath. Drake.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:63277:4"/>
+            <epigraph>
+               <q>
+                  <bibl>St. MATTH. xxviii. 15.</bibl>
+                  <p>So they took the Money, and did as they were taught.—</p>
+               </q>
+            </epigraph>
+            <p>IT is a just Observation which the Wise King <hi>Solomon</hi> has left us in his excellent Book of <hi>Proverbs; The king by judgment stablisheth the land, but he that receiveth gifts overthroweth it.</hi> The former of which <hi>Propositions</hi> is a most approved Truth, confirmed by the joint Suffrages and Experience of all Nations, <hi>viz.</hi> That the Sove<g ref="char:EOLhyphen"/>reign Exercise of Justice and impartial Execution of Good Laws, is, (under God) the firmest establish<g ref="char:EOLhyphen"/>ment of a Kingdom, and the best security of any Government.</p>
+            <p>This then being taken for granted, it follows necessarily, That whatsoever perverteth the Course of Justice, is destructive of Government. And herein lies the reason of the following <hi>Disjunction,</hi> which is full and pertinent, <hi>But he that receiveth gifts over<g ref="char:EOLhyphen"/>throweth the land;</hi> the Argument of which, in due Syllogistical Form, runs thus:—</p>
+            <p>That which corrupteth Judgment, which is the <hi>Pillar and Ground</hi> of the Government, overthrow<g ref="char:EOLhyphen"/>eth the Land;</p>
+            <p>But Unjust Gifts, or Bribes corrupt Judgment,</p>
+            <p>Therefore he that receiveth those Gifts overthrow<g ref="char:EOLhyphen"/>eth the Land.—<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he digs away the Ground<g ref="char:EOLhyphen"/>work, he shakes the very Pillars of it; tho' at pre<g ref="char:EOLhyphen"/>sent
+<pb n="2" facs="tcp:63277:5"/> he makes no open discernable Breach in the Government, yet as a <hi>Secret Enemy,</hi> he undermines the main Foundation, he corrupts <hi>Justice,</hi> the steady Support of the <hi>State,</hi> and perverteth <hi>Truth,</hi> the grand Pillar of the <hi>Church,</hi> and Worm-eats the Planks of that Vessel wherein the Safety of both is embark'd.</p>
+            <p>Nor does Truth and Justice suffer less by the <hi>Giver</hi> than by the <hi>Receiver</hi> of Bribes; he is the <hi>Vir Oblationum</hi> here as well as the other, and, as the <hi>Seventy</hi> render it, is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Violator of the Laws in this Case, as well as he that does the <hi>Accursed Drudgery</hi> for the Reward of Ini<g ref="char:EOLhyphen"/>quity.</p>
+            <p>Now at a Season when we have <hi>Enemies a<g ref="char:EOLhyphen"/>broad,</hi> that watch all Opportunities to overthrow our Land, it seems more especially necessary that the Government should have an Eye upon these treacherous <hi>Miners within,</hi> who for love of Mo<g ref="char:EOLhyphen"/>ney, or thro' desperate Malice, are digging Graves for Us and themselves, and doing the Enemy's Work: For how shall our Citadel bear the Shock of <hi>Foreigners,</hi> if it be undermin'd by our <hi>Own</hi> treacherous Hands.</p>
+            <p>Our Royal Master (whom God preserve and pro<g ref="char:EOLhyphen"/>sper) is gone to put a Stop to the Advances of our Foreign Enemies, and has left his Administra<g ref="char:EOLhyphen"/>tors of Justice, the <hi>Honourable Judges of this Realm,</hi> to stablish the Land by Judgment, to tye those <hi>Treacherous Hands</hi> that wou'd overturn it, as well the malicious <hi>Buyers of a Lye,</hi> as the Mercenary <hi>Sellers of Truth,</hi> who sacrifice Laws and Liberties, Truth and Equity, Church and State to their co<g ref="char:EOLhyphen"/>vetous or malicious Lusts.</p>
+            <pb n="3" facs="tcp:63277:5"/>
+            <p>Now Enemies ought to be regarded chiefly in proportion to their Power: Little Adversaries, and low-designing Traytors may be slighted and over-look'd, but it must be a very sleepy or cor<g ref="char:EOLhyphen"/>rupt Government which does not search and exa<g ref="char:EOLhyphen"/>mine narrowly into this <hi>Old Exchange,</hi> which in every Age and Nation, has been set up and ma<g ref="char:EOLhyphen"/>nag'd by the Father of Lies and his Agents, to the great Prejudice of Truth, and Obstruction of Justice.</p>
+            <p>Now that you may see what bold desperate <hi>At<g ref="char:EOLhyphen"/>tempts</hi> may be made with <hi>Money,</hi> and consequent<g ref="char:EOLhyphen"/>ly how that <hi>secret Spring</hi> of Mischief ought to be guarded, I have at this time pitch'd upon the high<g ref="char:EOLhyphen"/>est and most daring Instance of Subornation and Bribery, that ever was <hi>recorded</hi> in History, or <hi>acted</hi> upon any Theatre in the World.</p>
+            <p>The <hi>Matter of Fact</hi> is faithfully recorded by St. <hi>Matthew</hi> to this Effect.</p>
+            <p>The inhuman <hi>Jews</hi> having prosecuted the Holy <hi>JESƲS</hi> to Death, with a false shew of Justice, rest not there, but their <hi>Chief Priests</hi> and <hi>Pharisees</hi> go <hi>in a Body</hi> to <hi>Pilate,</hi> the <hi>Roman</hi> Judge, from whom they had extorted the <hi>Bloody Sentence,</hi> and address him thus;</p>
+            <p>
+               <q>
+                  <hi>Sir,</hi> We remember that <hi>That Deceiver</hi> said, while he was yet alive, <hi>After three days I will rise again;</hi> therefore to prevent any further Se<g ref="char:EOLhyphen"/>duction of the People, be pleas'd to command that the Sepulchre be made sure, until the Third Day, lest his Disciples come by Night, and steal him away, and say unto the People, <hi>He is risen
+<pb n="4" facs="tcp:63277:6"/> from the dead;</hi> so the last Error or Imposture shall be worse than the first.</q>
+            </p>
+            <p>
+               <hi>Pilate</hi> grants their Request, bids 'em satisfie them<g ref="char:EOLhyphen"/>selves in every Particular, tells 'em they had a <hi>Guard</hi> of <hi>Roman Soldiers</hi> at their Service, and leaves them to use all means they cou'd devise to secure the crucify'd Body in the Grave.</p>
+            <p>So they resolving to make <hi>sure Work</hi> of it, and, if possible, to out do the Tyranny of Death, seal'd the <hi>Sepulchre,</hi> and, as an Ancient Tradition says,<note place="margin">
+                  <hi>Beda de lo<g ref="char:EOLhyphen"/>cis sanctis.</hi> cap. 2.</note> bound it about with Labels of Iron, and gave such strict charge to the Soldiers, as if they had inten<g ref="char:EOLhyphen"/>ded to have made it surer than the Decrees of Fate, or the uncontroll'd Laws of Nature.</p>
+            <p>Thus the Watch is set, and a massy Stone roll'd to the Door of the Sepulchre, to keep the <hi>King of Glory</hi> in <hi>Chains,</hi> and the <hi>Lord of Life</hi> in the <hi>Bands of Death.</hi>
+            </p>
+            <p>But <hi>He that sitteth in Heaven</hi> laugh'd these Wretches to scorn; not all their Malicious Contri<g ref="char:EOLhyphen"/>vances, in conjunction with Hell and the Grave, cou'd hold him there, where God had a stronger <hi>Guard</hi> than these Conspirators, for the Angels de<g ref="char:EOLhyphen"/>scended <hi>Guardians</hi> of the Sepulchre; and on the Third Day, to the confusion and Astonishment of the <hi>Roman Garrison,</hi> all the Bands and Bars of Death are broken up, the mighty Blockade remo<g ref="char:EOLhyphen"/>ved, and the Prison Doors open'd with Triumph to make way for the <hi>King of Glory.</hi>
+            </p>
+            <p>And farther, such was the Power of our Lord's Resurrection, that it not only made the <hi>Stone</hi> give <hi>way,</hi> but the Angelick Lightning even pierc'd the <hi>Stony Hearts</hi> of the Soldiers, and forc'd 'em to
+<pb n="5" facs="tcp:63277:6"/> make a Confession to the Chief Priests of <hi>all the things that were done;</hi> but they, resolving to per<g ref="char:EOLhyphen"/>sist in their Iniquity, and to render it safe and unquestionable by a <hi>new Crime,</hi> (to strengthen their impotent ineffective Malice) betake themselves to <hi>Money,</hi> the usual <hi>Aqua vitae,</hi> as one calls it, <hi>of fainting causes;</hi> with this they hire the Soldiers to tell a most incredible Lye, <hi>viz. That the Disciples came by night, and stole the body away while they slept.</hi> A Monstrous Absurdity! But the greedy <hi>Pensioners,</hi> regarding nothing but the Reward, <hi>took the money, and did as they were taught.</hi>
+            </p>
+            <p>This Historical Account, which our Evangelist gives of this Matter, is sufficiently confirm'd by o<g ref="char:EOLhyphen"/>ther Historians of unquestionable Credit, as we shall see hereafter.</p>
+            <p>But at present, that we may see more distinctly what inveterate Malice, and slavish Avarice, when <hi>Covenanted</hi> together can do, our Inquest shall be accountable for these <hi>Four</hi> Things.
+<list>
+                  <item>I. Why, or to what End was this Money given and receiv'd?</item>
+                  <item>II. Who they were that gave and receiv'd it?</item>
+                  <item>III. What Reward was given?</item>
+                  <item>IV. How the Bargain was perform'd?</item>
+               </list>
+            </p>
+            <p>Of these in their Order, with a Deduction of such <hi>Inferences</hi> as I judge applicable to this Occa<g ref="char:EOLhyphen"/>sion; and all with that Brevity as shall shew my humble Regard to your Patience, and to your Business.</p>
+            <pb n="6" facs="tcp:63277:7"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> The <hi>First</hi> Article of Enquiry is, Why, or to what End was this Money given and receiv'd?</p>
+            <p>To the basest Ends and Purposes imaginable, to stifle Truth, and substitute a Lye in the room of it. It was given to baffle the clearest Evidence of Christ's Resurrection; it was receiv'd to bear false Witness against a most apparent and undis<g ref="char:EOLhyphen"/>guis'd Truth: And more than that, it was both given and receiv'd, not only to Eclipse the Light of the <hi>Truth,</hi> but to foist in a prodigious Devilish <hi>Lye.</hi>
+            </p>
+            <p>A <hi>Lye</hi> most <hi>Maliciously</hi> laid against the <hi>Capital Article</hi> of our Religion, being design'd to <hi>behead Christianity</hi> at a Blow.</p>
+            <p>A <hi>Lye</hi> most <hi>Ʋngratefully</hi> Wicked, carry'd on by Suborning Witnesses with the <hi>price of Iniquity,</hi> a<g ref="char:EOLhyphen"/>gainst <hi>Him</hi> who had purchased their Redemption with the <hi>price of his Blood.</hi>
+            </p>
+            <p>A <hi>Lye</hi> most notoriously <hi>Impudent,</hi> made by those who <hi>gave</hi> the Money, and known to be so by those who <hi>receiv'd</hi> it, being hired to contradict their own Depositions, and forswear themselves as often as they were call'd to it.</p>
+            <p>But withal, one of the <hi>grossest and worst-contriv'd Lyes</hi> that ever was made, wherein the Father of <hi>Lyes,</hi> according to his Custom, withdrew <hi>his poli<g ref="char:EOLhyphen"/>tick Influence,</hi> and left his wretched Agents to their <hi>own Infatuations.</hi>
+            </p>
+            <p>For, is it likely that the <hi>Desponding</hi> Disciples of <hi>Jesus,</hi> who were dismay'd and scatter'd upon his Cru<g ref="char:EOLhyphen"/>cifixion, and durst scarce shew themselves, shou'd venture thro' so much Hazard and Difficulty to steal a <hi>Dead Carkass?</hi>
+            </p>
+            <pb n="7" facs="tcp:63277:7"/>
+            <p>Can it be reasonably imagin'd, that a few <hi>forlorn, naked, and unarm'd</hi> Men, shou'd dare to attack the <hi>Guards,</hi> and force the <hi>fortify'd</hi> Sepulchre?</p>
+            <p>But (waving these, and a Thousand more gross Improbabilities) Who saw the Disciples do this? or how do the Guard know it was so?—Why, we are told that all this was done <hi>while they slept: O stulta Insania!</hi> Foolish and besotted Madness, to give Credit to <hi>sleeping Witnesses!</hi> If they slept, how cou'd they know it? and if they did not know it, how cou'd they witness it? But I ask pardon for insisting upon this ridiculous and exploded Report, which, if it need Confuting, confutes it self.</p>
+            <p>But I have mention'd these things the better to introduce this <hi>Inference;</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Infer. </seg>
+               </label> That no Cause is so <hi>just,</hi> no Truth so <hi>evident,</hi> but will sometime or other be assaulted by <hi>Ma<g ref="char:EOLhyphen"/>lice,</hi> and contradicted for <hi>Money.</hi> If the Innocence of the <hi>Holy JESƲS</hi> cou'd not protect him, if the Evidence of his Resurrection met with such Cavellers and Gainsayers; nay, if the infinite Char<g ref="char:EOLhyphen"/>ming Goodness of his Nature was not sufficient to <hi>overcome Evil,</hi> what can the best of us poor Mor<g ref="char:EOLhyphen"/>tals expect, when Malice and Covetousness com<g ref="char:EOLhyphen"/>bine against us?</p>
+            <p>It is God's Goodness to us of this <hi>Nation,</hi> that poor persecuted Righteousness has juster Cities of Refuge to flee unto than <hi>Jerusalem.</hi> That City and her Courts were stain'd with the Blood, the inno<g ref="char:EOLhyphen"/>cent Blood of many of the Prophets, and of <hi>the Anointed of the Lord;</hi> Justice and Judgment were not to be found within <hi>her Gates:</hi> But blessed be
+<pb n="8" facs="tcp:63277:8"/> God, in <hi>Our's,</hi> generally speaking, if we look to the Fountain and chief Conduits of Justice, we have no just Cause of <hi>complaining in our Streets;</hi> No, we must own with thankfulness, when we re<g ref="char:EOLhyphen"/>flect upon <hi>some Years</hi> that are past, that <hi>Judgment</hi> now <hi>runs down as clear as Water, and Righteousness like a mighty Stream.</hi>
+            </p>
+            <p>Indeed if <hi>We,</hi> the Disciples of <hi>Christ,</hi> were in this respect <hi>as our Master,</hi> we shou'd say <hi>it is enough,</hi> and be contented; but since his gracious Compassi<g ref="char:EOLhyphen"/>on to our Infirmities has plac'd us in a Land of Truth and Justice, we shou'd <hi>enter into his Gates</hi> of Judgment <hi>with Thanksgiving,</hi> as well as <hi>into the Courts</hi> of Sanctuary <hi>with Praise;</hi> we shou'd always <hi>be thankful unto him, and speak good of his Name.</hi> But we must turn to our</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/>
+               <hi>Second</hi> Enquiry; Who they were that gave and receiv'd this Money? The <hi>Givers</hi> were no <hi>worse</hi> (I mean, no <hi>less Men,</hi> for <hi>worse</hi> there cou'd not be) than the Chief Priests, assembled with the El<g ref="char:EOLhyphen"/>ders; or, in a Word, the <hi>Sanhedrim,</hi> the <hi>great Se<g ref="char:EOLhyphen"/>nate,</hi> or <hi>High Court of Parliament</hi> among the <hi>Jews.</hi> This is the highest Aggravation of their Wicked<g ref="char:EOLhyphen"/>ness: Their Numbers, their Dignity and Office, render their Crime more Conspicuous and Abo<g ref="char:EOLhyphen"/>minable.</p>
+            <p>Had a few vile Wretches laid a <hi>Plot</hi> to propa<g ref="char:EOLhyphen"/>gate an Untruth, there had been nothing extraor<g ref="char:EOLhyphen"/>dinary in it; but that the whole <hi>Governing part of a Nation,</hi> that a Number of Priests, and Levites, and Scribes, with Seventy of the Elders or Judges of <hi>Israel,</hi> shou'd all shuffle and conspire to <hi>buy a Lye,</hi> and that immediately after they had sanctify'd
+<pb n="9" facs="tcp:63277:8"/> the <hi>Sabbath,</hi> nay, and celebrated the great Feast of <hi>Ʋnleaven'd Bread</hi> too, for <hi>that Sabbath-Day was an high day;</hi> that they who shou'd have been the pub<g ref="char:EOLhyphen"/>lick <hi>Advocates</hi> of Truth and Righteousness, shou'd be <hi>Mendacii Sponsores,</hi> the Betrothers of an im<g ref="char:EOLhyphen"/>pudent Calumny; that that Court which for its Authority, for some time pretended Power over their Kings, and for its Religious Reputation was by their <hi>Rabbins</hi> call'd <hi>The Prop of true Doctrine;</hi> that that Court, I say, shou'd be guilty of most base and horrid Forgery, wou'd scarce be believ'd in a Common-Wealth of honest Heathens.</p>
+            <p>But this shews the strange Degeneracy and Cor<g ref="char:EOLhyphen"/>ruption of the <hi>Jewish</hi> Church and State at this time, in which <hi>Money</hi> had the greatest Stroke, for<g ref="char:EOLhyphen"/>asmuch as their very <hi>High-Priesthood</hi> was bought and sold: And it is observ'd of them, that they wou'd stake down their whole Religion to serve an <hi>Inte<g ref="char:EOLhyphen"/>rest,</hi> a <hi>Turn,</hi> or a <hi>Lust:</hi> They were Conscientious in nothing but outward Rites; they kept the <hi>out<g ref="char:EOLhyphen"/>side</hi> of their Hands clean, but their <hi>inside</hi> was full of Gifts.</p>
+            <p>These base, inglorious Practices were the dread<g ref="char:EOLhyphen"/>ful Symptoms of an impending Ruine, which al<g ref="char:EOLhyphen"/>ways first appear in <hi>slavish Minds:</hi> Their Iniquity was well-nigh grown to the <hi>full;</hi> for so truly Diabolical were they in their Practices, that they <hi>rejoyced in Iniquity.</hi> When the Accursed Traytor <hi>Judas</hi> commun'd with 'em, how he might betray his <hi>Master,</hi> they were <hi>glad,</hi> says the Text, and co<g ref="char:EOLhyphen"/>venanted to give him <hi>Money.</hi>
+            </p>
+            <p>And here I cannot but observe, to the Eternal Reproach of these <hi>Jewish</hi> Zealots, and all such Hy<g ref="char:EOLhyphen"/>pocritical Workers of Iniquity, a generous Instance
+<pb n="10" facs="tcp:63277:9"/> of Justice in the brave <hi>old Romans,</hi> in the case of <hi>Pyr<g ref="char:EOLhyphen"/>rhus,</hi>
+               <note place="margin">
+                  <hi>Tull. de Offic.</hi> l. 1.</note> related thus by <hi>Cicero;</hi>
+               <q>There was a Fugitive that made a Proposal to the Senate for the Poy<g ref="char:EOLhyphen"/>soning and Dispatching of <hi>Pyrrhus;</hi> but the <hi>Se<g ref="char:EOLhyphen"/>nate</hi> and <hi>Fabricius</hi> deliver'd up the Traytor to his Master. Such was the Detestation they had for Treachery, that they wou'd not make use of it, tho' to the Destruction of a Powerful and In<g ref="char:EOLhyphen"/>vading Enemy.</q>
+            </p>
+            <p>But so base and ignoble are these <hi>Jewish Senates,</hi> that they embrace and encourage a most perfidious <hi>Traytor</hi> against the <hi>Prince of Peace,</hi> and not only give Money to betray him to <hi>Death,</hi> but to murder the Fame of his Resurrection to <hi>Life.</hi>
+            </p>
+            <p>These Men of Authority were the <hi>Givers</hi> of this Money, and the <hi>Raisers</hi> of this vain Report. Let us now examine the <hi>Receivers of that,</hi> and the <hi>Re<g ref="char:EOLhyphen"/>porters of this.</hi>
+            </p>
+            <p>These were some of the Common Soldiers in the <hi>Roman</hi> Garrison, Men of desperate Fortunes, and prostitute Consciences, <hi>Vendible Souls,</hi> that wou'd act any thing for Money, and Swear and Lye, as well as Kill, for their <hi>daily Pay.</hi>
+            </p>
+            <p>Now 'tis no wonder that such common Mercena<g ref="char:EOLhyphen"/>ries shou'd be <hi>debauch'd,</hi> when the <hi>Lustfull Senators</hi> make their <hi>Court</hi> to 'em, with their Right-hands full of Gifts. 'Tis no wonder that Slaves are the <hi>Trumpeters</hi> of a Lye, when they see the Lords of the Council are the <hi>Leaders</hi> and <hi>Encouragers</hi> to it. They knew they were but the <hi>open Instruments</hi> of their <hi>Secret Malice,</hi> and they were secur'd of In<g ref="char:EOLhyphen"/>demnity in case they were call'd to Account for their slothful Negligence, or deserting their Post; for thus their <hi>Warrant</hi> runs;</p>
+            <pb n="11" facs="tcp:63277:9"/>
+            <p>
+               <hi>If this come to the governour's ears, we will persuade him, and secure,</hi> or indemnify, <hi>you.</hi>
+            </p>
+            <p>So have we known some <hi>Knights of the Post,</hi> when their Pardon has been secur'd before-hand, make wonderful Discoveries and Confessions of <hi>Treason,</hi> which they were never guilty of, only with a wicked Design to accuse others as their Accom<g ref="char:EOLhyphen"/>plices, and betray innocent Blood.</p>
+            <p>But yet, as to the case of the <hi>Roman Hirelings,</hi> I must confess 'tis matter of Wonder, notwithstand<g ref="char:EOLhyphen"/>ing all these incouraging Inducements, how they shou'd be persuaded to undertake this Drudgery of Lying against a <hi>Truth,</hi> which had so lately ap<g ref="char:EOLhyphen"/>pear'd to 'em in so much <hi>Majesty</hi> and <hi>Glory;</hi> a <hi>Truth</hi> which by its formidable Power, not only made their <hi>Hearts to quake,</hi> but the <hi>Earth to tremble:</hi> 'Tis a wonder, I say, that they who, to their ut<g ref="char:EOLhyphen"/>ter Confusion and Astonishment, had seen the <hi>un<g ref="char:EOLhyphen"/>weildy Stone</hi> remov'd by a resistless Hand, had felt the Earthquake, nay, had felt the more likely Ef<g ref="char:EOLhyphen"/>fects of a Celestial Vision, which struck 'em as <hi>Dead Men,</hi> so that there remain'd no strength in them; 'Tis a Wonder, I say again, how they cou'd <hi>be disobedient to the Heavenly Vision,</hi> how they cou'd be <hi>hired to kick against the Pricks,</hi> and to <hi>fight a<g ref="char:EOLhyphen"/>gainst God;</hi> when they might justly fear, that he who made the Earth to <hi>tremble,</hi> might as well make it <hi>open its Mouth,</hi> and swallow them up: This is a most amazing Instance of <hi>audacious Wick<g ref="char:EOLhyphen"/>edness!</hi>
+            </p>
+            <p>But, such is is the Levity of Mercenary Soldiers, and such the prevailing Power of <hi>Money,</hi> that it will attempt <hi>any thing;</hi> not only to take <hi>Towns</hi> without <hi>Force,</hi> and defeat <hi>Armies</hi> with a <hi>Flying Story,</hi> but
+<pb n="12" facs="tcp:63277:10"/> even to <hi>change the Truth of God into a Lye:</hi> So im<g ref="char:EOLhyphen"/>pudent and astonishing was this Undertaking of the Soldiers!</p>
+            <p>But yet when all is said and done, their base juggling <hi>Instructers</hi> were most to blame, who forg'd this Lye, and countenan'd it by their Authority, and spread it <hi>per organum Militaris Levitalis,</hi> made the Levity and Inconstancy of the Soldiers the <hi>Trumpet</hi> of their spiteful Invention.—But too much of this;</p>
+            <p>Let us now see what <hi>Inferences</hi> this <hi>Second Enqui<g ref="char:EOLhyphen"/>ry</hi> will afford, and for Brevity-sake, among several others, I will only take notice of this One;</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Infer. </seg>
+               </label> How <hi>dangerous</hi> as well as <hi>base</hi> a thing it is, for <hi>Great Men</hi> to interpose their <hi>Authority</hi> in the Case of Subornation and Bribery. Money may do Mis<g ref="char:EOLhyphen"/>chief enough of it-self, but when 'tis animated and strengthened with Authority, it will even take up <hi>Arms</hi> against <hi>Heaven.</hi>
+            </p>
+            <p>It was the Power and Authority of the <hi>Sanhe<g ref="char:EOLhyphen"/>drim</hi> that encourag'd such an Attempt as the World never before heard of, <hi>to stop the Sun from Rising;</hi> and when he was risen, to blind the Eyes of all Mankind with the <hi>Dust</hi> of an <hi>idle Report.</hi>
+            </p>
+            <p>It was by the same means of Money and Au<g ref="char:EOLhyphen"/>thority that <hi>Balak</hi> and his Princes prevail'd in some measure with the blinded Peophet against the Word of Truth; and,</p>
+            <p>Thus, False Accuse are ais'd with Ease, and ride on without controul, when <hi>Money</hi> has <hi>Magi<g ref="char:EOLhyphen"/>stracy</hi> on its side.</p>
+            <p>But it is well observ'd by the Judicious Bishop <hi>Sanderson,</hi>
+               <q>That as Magistrates are <hi>petty Gods,</hi>
+                  <pb n="13" facs="tcp:63277:10"/> God having lent 'em his Name; so False Accusers are <hi>petty Devils,</hi> the Devil having borrow'd theirs, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the Accuser of the Brethren: For a Magistrate then to countenance a Sycophant, what is it else, says he, but as it were to pervert the Course of Nature, and make God take the Devil's part?</q>
+            </p>
+            <p>But here again, we of this Nation have singular Reason to bless God, that tho' the <hi>last Generation</hi> was almost, if not altogether, as ignominious for a bloody corrupt Magistracy, and <hi>Sham-Courts of Ju<g ref="char:EOLhyphen"/>stice,</hi> as ever the <hi>Jewish</hi> Nation was, yet it pleased the Lord <hi>to restore our judges as at the first, and</hi>
+               <note place="margin">1 <hi>Sam.</hi> 1. 26.</note>
+               <hi>our counsellors as at the beginning, and to make our Zion a city of righteousness.</hi>
+            </p>
+            <p>But, alas! there are too many ways to pervert Justice, besides Corruption in Authority; for, as the aforesaid Prelate excellently observes, Though a<note place="margin">Ser. II. ad Magistrat.</note> Judge be never so honestly minded, never so zea<g ref="char:EOLhyphen"/>lous of the Truth, never so careful to do Right, yet if there be (as there always will be) some spite<g ref="char:EOLhyphen"/>ful Accuser or other that will suggest any thing, or an audacious Witness that will swear any thing, or a crafty Pleader that will maintain any thing, or a tame Jury that will swallow any thing, or a craving Clerk or Officer, that for a Bribe will foist in any thing; the Judge, who is ty'd to pro<g ref="char:EOLhyphen"/>ceed <hi>secundum allegata &amp; probata,</hi> cannot with his best Care and Wisdom prevent, but sometimes Ju<g ref="char:EOLhyphen"/>stice will be perverted, Innocency oppress'd, and the Guilty Justified. But—I'm sensible that I've spent too much time in these two first <hi>Enquiries,</hi> and therefore shall make shorter work with the other Two that follow.</p>
+            <pb n="14" facs="tcp:63277:11"/>
+            <p> Now that which falls under our</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/>
+               <hi>Third Enquiry</hi> is, What Reward was here given? And here both the <hi>Quale</hi> and the <hi>Quantum</hi> are ob<g ref="char:EOLhyphen"/>servable; here is <hi>Money</hi> given, and <hi>large Money.</hi>
+            </p>
+            <p>
+               <hi>Money,</hi> one of the most useful Inventions for Trade and Merchandise under the Sun, is pervert<g ref="char:EOLhyphen"/>ed to more gross Abuses, and mischievous Purposes than any <hi>one thing</hi> whatsoever.</p>
+            <p>Particularly, it has carry'd on most of the Wars against Truth, that Malice or blind Zeal have ever rais'd.</p>
+            <p>And no wonder, that it shou'd prove such an Ene<g ref="char:EOLhyphen"/>my to <hi>Truth,</hi> when, for the Corruption of Man<g ref="char:EOLhyphen"/>kind, the Father of <hi>Lyes</hi> is made the grand Admi<g ref="char:EOLhyphen"/>nistrator of it, and therefore is entituled <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The God of <hi>Riches;</hi> and <hi>Covetousness is his</hi> Catho<g ref="char:EOLhyphen"/>lick <hi>Worship,</hi> which is <hi>Idolatry.</hi>
+            </p>
+            <p>With this secret Inchantment, this bewitching Temptation, the <hi>God of this World</hi> has gain'd <hi>Pro<g ref="char:EOLhyphen"/>selytes</hi> of all Degrees and Professions. The Infecti<g ref="char:EOLhyphen"/>on is Epidemical, from the lowest to the highest; from the <hi>Atheist</hi> to the <hi>Religious Zealot,</hi> we find some tainted with the impious Contagion; even the Wise and the Righteous have been sometimes dazled with it: Therefore the Words of the Law<note place="margin">
+                  <hi>Deut.</hi> 16. 19</note> are an excellent <hi>Caveat</hi> in this Case, <hi>Thou shalt not wrest judgment, nor take a gift; for a gift does blind the eyes</hi> even <hi>of the</hi> Wise, <hi>and perverts the words of the</hi> Righteous.</p>
+            <p>The <hi>Accursed Thing</hi> is not only to be found in <hi>Achan</hi>'s Tent, but in the Camp of <hi>Saul;</hi> nor is the Prophet's Servant <hi>Gehazi</hi> only vitiated with
+<pb n="15" facs="tcp:63277:11"/> this Leprosie, but <hi>Balaam,</hi> a Prophet of the Lord is blin<g ref="char:EOLhyphen"/>ded with it: For tho' God had told him positive<g ref="char:EOLhyphen"/>ly that he shou'd not curse the People <hi>Israel,</hi> yet a second Message from <hi>Balak,</hi> with mighty Promi<g ref="char:EOLhyphen"/>ses of Promotion, and double Rewards of Divina<g ref="char:EOLhyphen"/>tion tempt him <hi>to enquire again of God.</hi>
+            </p>
+            <p>But I need not produce these lesser Instances of corrupt Practices wrought by <hi>Money,</hi> when this was <hi>the Reward</hi> that was <hi>taken</hi> against the <hi>Innocent;</hi> this was the <hi>tempting Fruit,</hi> which the <hi>Serpentine Se<g ref="char:EOLhyphen"/>nators</hi> made use of to destroy our Faith in the <hi>Se<g ref="char:EOLhyphen"/>cond Adam;</hi> this was the Silver Hook wherewith they drew in the greedy Soldiers to execute their wicked Project; this the only <hi>Lure</hi> that cou'd have brought those <hi>Birds of Prey</hi> to their <hi>Hand.</hi>
+            </p>
+            <p>I shall not throw in that aggravating Observati<g ref="char:EOLhyphen"/>on which some Expositors with probability enough make, that this <hi>Subornation</hi> was accompany'd with <hi>Sacrilege,</hi> reck'ning that this Covenant was made with Money dedicated to pious Uses, or appropri<g ref="char:EOLhyphen"/>ated to the Service of the Temple: But,—be it as it will,</p>
+            <p>We are assur'd that it was a <hi>round Summ</hi> of Mo<g ref="char:EOLhyphen"/>ney<note place="margin">v. 1.</note> which was given; for so our Evangelist tells us, that when they had taken Council, they gave <hi>large Money</hi> unto the Soldiers, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Mo<g ref="char:EOLhyphen"/>ney sufficient to satisfie them all to carry on the Design without Scruple; and that sure must be no <hi>small Summ</hi> for so <hi>hard a Task,</hi> to uphold a Lye of that <hi>size</hi> stood in need of <hi>large Money.</hi>
+            </p>
+            <p>But here it is worth observing, how much this Caballing Assembly gave for a <hi>Lye,</hi> and how <hi>little</hi> for the Lord of <hi>Truth,</hi> when they purchas'd him of the Traytor. It is well observ'd also by one, that
+<pb n="16" facs="tcp:63277:12"/> these crafty <hi>Senators, cum avarissimi sint, Mendacium tamen &amp; Damnationem emunt;</hi> tho' they were infa<g ref="char:EOLhyphen"/>mously and deadly Covetous, yet they gave <hi>freely</hi> and <hi>generously</hi> for a damnable Lye. Thus Malice makes even Self-interest subject to it, may, makes the <hi>covetous Miser</hi> turn <hi>Prodigal.</hi>
+            </p>
+            <p>But yet, tho' Malice laid this wicked Plot, 'twas Money that put it in Execution, from whence I wou'd make this short <hi>Inference;</hi>
+            </p>
+            <p>That of all the various <hi>Inducements</hi> wherewith the wicked World aboundeth, to discredit Truth, and pervert Justice, there is none so <hi>prevalent</hi> and <hi>effectual</hi> as <hi>Money:</hi> All the Wit of Men, and Ma<g ref="char:EOLhyphen"/>lice of Devils cou'd not here find out such another <hi>Expedient.</hi>
+            </p>
+            <p>There are indeed other <hi>Tools</hi> which the Work<g ref="char:EOLhyphen"/>ers of Iniquity make considerable use of; <hi>Obsequi<g ref="char:EOLhyphen"/>ousness</hi> and <hi>fear of Displeasure,</hi> which creates <hi>sneak<g ref="char:EOLhyphen"/>ing Complyances,</hi> are too common <hi>Instruments</hi> in the Hands of the Enemies of Truth; and <hi>Envy, Ha<g ref="char:EOLhyphen"/>tred,</hi> and <hi>Malice</hi> may do Mischief enough, especi<g ref="char:EOLhyphen"/>ally when so deeply wrought into Men's Compo<g ref="char:EOLhyphen"/>sition, as in the Instance before us.</p>
+            <p>But tho' Men be mischievous and wicked enough of themselves, yet are there even in <hi>corrupt Nature</hi> such Impressions of the common Principles of Truth and Justice, that Men would not often tell a Lye <hi>gratis,</hi> nor do an <hi>ill thing</hi> for <hi>nothing;</hi> Thousands of ill Designs, and illegal Practices wou'd <hi>miscarry,</hi> if it was not for the <hi>Midwifery</hi> of <hi>Money.</hi>
+            </p>
+            <p>Hence particularly arise that mischievous <hi>Pair,</hi> which conspire to propagate Falshood, <hi>Subornation,</hi> and <hi>Perjury;</hi> the Cry of both which is heard in
+<pb n="17" facs="tcp:63277:12"/> this <hi>Covenant;</hi> the former is notorious, and the lat<g ref="char:EOLhyphen"/>ter plainly imply'd; for what the Watch discover'd and declar'd before the Chief Priests, and was af<g ref="char:EOLhyphen"/>terwards debated in Council before the whole <hi>San<g ref="char:EOLhyphen"/>hedrim,</hi> can, I think, be interpreted no less than <hi>Depositions upon Oath,</hi> being given before the High<g ref="char:EOLhyphen"/>est Court of Judicature among the <hi>Jews;</hi> and therefore their subsequent Covenant to contradict what they had said, seems to have all the <hi>Forma<g ref="char:EOLhyphen"/>lities</hi> of <hi>Perjury.</hi>
+            </p>
+            <p>In such sad <hi>Solemnities</hi> was this <hi>accursed Covenant</hi> struck up with Money. I will say no more, but since the Coveting after <hi>That</hi> betray'd the <hi>Christ</hi> of God, let it not be once named among us, as becometh Christians.<note place="margin">
+                  <hi>Eph.</hi> 5. 3.</note>
+            </p>
+            <p>I now proceed to the</p>
+            <p>
+               <hi>Fourth</hi> and last Article of <hi>Enquiry,</hi> namely, How this <hi>hopeful Bargain</hi> was perform'd?</p>
+            <p>And here, it seems, these Mercenary Slaves, these Obsequious, Officious Lyars, tho' they were <hi>false to God and Conscience,</hi> yet they were <hi>true to the Treacherous Covenant,</hi> and <hi>faithful</hi> Servants <hi>to the Mammon of Ʋnrighteousness; They took the money, and did as they were taught.</hi>
+            </p>
+            <p>They acted, or rather were <hi>acted</hi> as <hi>Machines,</hi> in which <hi>Money</hi> was the principal <hi>Wheel</hi> or <hi>Spring</hi> of Motion. They that put the <hi>Money</hi> in their <hi>Hands</hi> put the <hi>Words</hi> into their <hi>Mouths;</hi> such Words as were indeed hard to be swallow'd and digested, being an Indictment and Accusation against <hi>them<g ref="char:EOLhyphen"/>selves,</hi> in which, if there had been any Truth, we cannot doubt but it wou'd have put these <hi>warm
+<pb n="18" facs="tcp:63277:13"/> Sticklers</hi> upon an immediate <hi>search</hi> in all the Disci<g ref="char:EOLhyphen"/>ples Houses, for the <hi>stoll'n Body;</hi> and the <hi>Roman Officers,</hi> who were severe <hi>Exacters of Military Di<g ref="char:EOLhyphen"/>scipline,</hi> wou'd infallibly have made the sleepy Watch <hi>Examples</hi> for neglecting their Post: But a little <hi>Ʋnderhand-dealing</hi> compounds for all this; and the Soldiers, encourag'd with large Gifts, and back'd with Authority, <hi>say after their Teachers;</hi> and so the Bargain is perform'd.</p>
+            <p>And by this means, as many <hi>as had a mind to be deceiv'd,</hi> were deceiv'd with a sottish idle Story, which our Evangelist tells us was commonly repor<g ref="char:EOLhyphen"/>ted among the <hi>Jews</hi> at the time of his Writing the Gospel; and I know not whether this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> this <hi>Monstrous Fable,</hi> this <hi>lusty-lying-wonder</hi> do not obtain among that infatuated People unto this day. A just Judgment upon 'em <hi>who receiv'd not the love of the truth that they might be saved; for which cause God sent them a</hi> strong Delusion, says the Apostle,<note place="margin">2 <hi>Thes.</hi> 2. 10.</note>
+               <hi>that they shou'd believe a lye, that they might all be damn'd who believ'd not the truth, but had pleasure in unrighteousness.</hi>
+            </p>
+            <p>But after all, this Bargain was not so <hi>thorowly</hi> perform'd. Malice and Money by their powerful <hi>Confederacy,</hi> held out for some time, and may do still in some dark Corners of the World, against the Truth, but (generally speaking) Truth in this Action prov'd too strong for 'em both, and tri<g ref="char:EOLhyphen"/>umph'd in spite of 'em. All their <hi>Machinations</hi> soon spent themselves in the <hi>Air,</hi> without doing any considerable Execution.</p>
+            <p>In plain <hi>English;</hi> this wicked Plot was not so closely carry'd on, but the Fraud came to <hi>Pilate</hi>'s Ear, and, notwithstanding the <hi>Engagement</hi> that was
+<pb n="19" facs="tcp:63277:13"/> made by the <hi>Sanhedrim to persuade him,</hi> yet he had so much more Ingenuity than they, that he confes<g ref="char:EOLhyphen"/>ses and declares the whole <hi>Intrigue</hi> to his Imperial Master <hi>Tiberius,</hi> in a <hi>Letter</hi> which is yet extant in the History of the <hi>Centuriators,</hi> part of which I will here give, because it is a Confirmation of all the<note place="margin">
+                  <hi>Cent.</hi> 1. l. 1. c. 10.</note> Evangelical Story.</p>
+            <p>
+               <hi>Illi autem (principes Judeorum) crucifixerunt eum, &amp;c. i. e.</hi>
+               <q>The Rulers of the <hi>Jews</hi> crucified this <hi>Jesus,</hi> and placed a Guard to keep him in the Sepul<g ref="char:EOLhyphen"/>chre: But he, while my Soldiers were upon the Watch, rose the third Day; but so hot was the crafty Malice of the <hi>Jews,</hi> that they gave Mo<g ref="char:EOLhyphen"/>ney to the Guard, to say that his Disciples stole away his Body: But when they had receiv'd the Money, for receive it they did, <hi>tacere non potue<g ref="char:EOLhyphen"/>runt,</hi> they cou'd neither keep Council nor Si<g ref="char:EOLhyphen"/>lence, for they testify'd not only that they saw him rise again, but that they receiv'd Money of the <hi>Jews</hi> to say the contrary.</q>
+            </p>
+            <p>This is agreeable to what <hi>Josephus, Eusebins,</hi> and<note place="margin">
+                  <hi>Jos. Ant. Jud.</hi> l. 18 c. 4. <hi>Euseb.</hi> l 2. c. 2.</note> others relate in this Matter. And here we see the whole Mystery of Iniquity laid open, tho' the Sol<g ref="char:EOLhyphen"/>diers had taken Money against the Truth, yet they cou'd not conceal it long, much less disguise it with a Lye: They soon found it too hard for 'em to kick against the Pricks of Conscience, and <hi>resist the Majesty</hi> of Truth.</p>
+            <p>And this agrees with the other Interpretation which some give of this <hi>Saying which was commonly report<g ref="char:EOLhyphen"/>ed among the Jews, viz.</hi> not that the Disciples stole him away, but that the Soldiers were hired to say so.</p>
+            <pb n="20" facs="tcp:63277:14"/>
+            <p>And so I leave the Matter before your Judg<g ref="char:EOLhyphen"/>ment, and shall conclude this last Article with one brief <hi>Inference.</hi>
+            </p>
+            <p>That tho' Innocence may be arraign'd, and Truth sully'd for a season, by <hi>prosperous Deceits</hi> and <hi>Con<g ref="char:EOLhyphen"/>spiracies,</hi> yet a <hi>Lying Tongue,</hi> and bought Evidence, <hi>is but for a Moment. Truth</hi> e'er long shall even<note place="margin">
+                  <hi>Psal.</hi> 85. 11.</note>
+               <hi>spring out of the Earth,</hi> like Plants and Flowers af<g ref="char:EOLhyphen"/>ter a stormy Winter; and <hi>Righteousness shall look down</hi> and discover it self <hi>from Heaven.</hi> Like the Sun after a short Eclipse, it shall recover its full Glory, and then the <hi>Face</hi> of them that <hi>forge Lyes</hi> shall be confounded, and the <hi>Mouth</hi> of them that <hi>speak those Lyes</hi> shall be stopped.</p>
+            <p>And certainly if the <hi>Vanity</hi> and <hi>Danger</hi> of this thing were well consider'd, how these evil Instruments do in the End prove <hi>Bruta fulmina,</hi> insignificant Flashes, and being over-charg'd with <hi>Malice</hi> and <hi>Lyes, that</hi> the Powder, <hi>these</hi> the Balls, do <hi>recoil,</hi> and fly foul in the Faces of their Inventors; there wou'd need no other Discouragement to Suborners, and false Witnesses.</p>
+            <p>I exhort therefore,</p>
+            <p>First of all, that the <hi>Giver</hi> of Bribes wou'd consi<g ref="char:EOLhyphen"/>der, that tho' he may at present raise thick <hi>Mists of Error</hi> with Money, yet the <hi>piercing Beams of Truth</hi> will soon break thro' all <hi>resistance.</hi>
+            </p>
+            <p>However, <hi>resistless Death</hi> (which comes posting on) cannot be <hi>brib'd,</hi> nor the last <hi>Judgment corrup<g ref="char:EOLhyphen"/>ted.</hi> All Disguises and Vizards shall then be pluck'd off, and both Truth and Falshood appear in their <hi>proper
+<pb n="21" facs="tcp:63277:14"/> Colours.</hi> All Wicked Conspiracies shall be detected, Lyes confounded, Malice and Envy arraign'd and condemn'd, and the Money of Suborners pe<g ref="char:EOLhyphen"/>rish with 'em.—For if <hi>Simon the Sorcerer</hi> had such a just Sentence of Condemnation pass'd upon him, for attempting to purchase the Spirit of <hi>Truth</hi> with <hi>Money,</hi> what shall become of them who give Money to License a <hi>Lye?</hi>
+            </p>
+            <p>St. <hi>John</hi> has shew'd them their Place, and Por<g ref="char:EOLhyphen"/>tion, and wretched Partners, <hi>Rev.</hi> 22. 15. declaring that <hi>whosoever loveth and maketh a lye, shall not enter in thro' the gates into the heavenly City, but shall have their portion with dogs, and sorcerers, and whoremongers, and murderers, and idolaters.</hi>
+            </p>
+            <p>Again, I exhort, that the <hi>Receivers</hi> of Bribes<note place="margin">
+                  <hi>Exod.</hi> 23. 1.</note> wou'd all consider what the Law says, <hi>Put not thine hand with the wicked to be an unrighteous witness;</hi> what the Gospel saith, <hi>What shall it profit thee if</hi>
+               <note place="margin">
+                  <hi>Mark</hi> 8. 36.</note>
+               <hi>thou shalt gain the whole world, and lose thine own Soul?</hi> and what Conscience says, <hi>Is there not a lye in thy right hand?</hi>
+            </p>
+            <p>And what is it, thou vile abject Creature, that thou receivest in Exchange for thy Soul? What? A corruptible Vanity for an immortal Substance; a <hi>Royal Image</hi> and Superscription stamp'd upon <hi>Earth<g ref="char:EOLhyphen"/>ly Metal</hi> for the glorious <hi>Image of God,</hi> stamp'd upon the <hi>Soul?</hi> And, Alas! is there any proportion be<g ref="char:EOLhyphen"/>twixt White or Yellow Earth, and a Celestial Life? Can you purchase an <hi>Inheritance incorruptible</hi> with that which <hi>Rust corrupteth?</hi> or the <hi>Rewards of Righ<g ref="char:EOLhyphen"/>teousness</hi> with the <hi>Price of Iniquity?</hi> Can you pro<g ref="char:EOLhyphen"/>cure Indulgencies in Hell for Money? or repeal an irreversible Sentence? or commute for infinite Pu<g ref="char:EOLhyphen"/>nishments? or even in this Life, Will ill-gotten
+<pb n="22" facs="tcp:63277:15"/> Wealth purchase Peace of Mind, or satisfie the in<g ref="char:EOLhyphen"/>satiate <hi>Worm</hi> which gnaws upon a guilty Consci<g ref="char:EOLhyphen"/>ence?</p>
+            <p>O God, that Men shou'd <hi>hunger</hi> for that which is not <hi>Bread!</hi> and unlawfully covet that which pro<g ref="char:EOLhyphen"/>fitteth not! that those inestimable <hi>Jewels</hi> Truth and Righteousness, Soul and Conscience shou'd be <hi>bar<g ref="char:EOLhyphen"/>ter'd</hi> for Money!</p>
+            <p>Think then, think, foolish Wretch, what a sorry Bargain thou art making, when thou art hiring thy self to do mischief by telling a Lye, swearing false<g ref="char:EOLhyphen"/>ly, and the like. Be not so easily catch'd with the dazling Temptation; remember the dangerous <hi>Hook</hi> before you swallow the <hi>Bait;</hi> consider the <hi>Curse</hi> before you pluck the <hi>forbidden Fruit;</hi> tho' the <hi>Serpent</hi> encir<g ref="char:EOLhyphen"/>cling the Branches appear with <hi>Silver Scales,</hi> yet he carries a deadly <hi>Sting:</hi> and this sure will check thy <hi>heaving Inclinations.</hi>
+            </p>
+            <p>
+               <hi>Finally,</hi> I exhort that we all seriously consider the Desolation which befel the <hi>Jewish</hi> Church and State for their harden'd Malice and smister Practi<g ref="char:EOLhyphen"/>ces, that the Judgments which befel them may be a Warning to this Land, and their Misery a Motive to our Amendment.</p>
+            <p>If we that profess our Faith in <hi>Christ's Resurrecti<g ref="char:EOLhyphen"/>on,</hi> imitate the Wickedness and Treachery of those Murderers, whose Malice pursu'd him <hi>beyond the Grave,</hi> What is, if this be not, to <hi>Crucifie the son of God afresh?</hi> If our Inclinations and Customs be so Mercenary, what are we better than the <hi>Jews</hi> who worshipped the Golden Calves? Our Cove<g ref="char:EOLhyphen"/>tousness, <hi>as Christians,</hi> is as gross <hi>Idolatry</hi> as theirs.</p>
+            <pb n="23" facs="tcp:63277:15"/>
+            <p>I wish, indeed, that <hi>Jerusalem</hi> had been the <hi>last Scene</hi> of infamous Corruption in this kind; that these shameful Impieties had been peculiar to the <hi>Jews;</hi> so that neither the like Sins nor Judgments might be repeated any more.</p>
+            <p>But, alas! how little do many Men of <hi>unclean Hands</hi> now-a-days consider why that <hi>Congregation of Hypocrites was</hi> so miserably <hi>made Desolate, and how Fire consum'd those Tabernacles of Bribery!</hi> How lit<g ref="char:EOLhyphen"/>tle do they think of the Observation of the Son of <hi>Syrach,</hi> that <hi>because of unrighteous dealings, injuries, and riches got by deceit, the kingdom is translated from one people to another!</hi> How little do they now think of, or regard what the Lord God of <hi>Israel</hi> says, <hi>There is an</hi> Accursed Thing <hi>in the midst of thee O</hi>
+               <note place="margin">
+                  <hi>Jos.</hi> 7. 13.</note>
+               <hi>Israel: Thou canst not stand before thine Enemies, un<g ref="char:EOLhyphen"/>til ye take away</hi> the Accursed Thing <hi>from among you.</hi>
+            </p>
+            <p>But—since the King <hi>by Judgment</hi> is now <hi>establishing the Land,</hi> what have we more to do? but with fervency unite our Prayers to God, <hi>by whom Kings reign,</hi> and the <hi>Judges of the Earth de<g ref="char:EOLhyphen"/>cree Justice,</hi>
+            </p>
+            <closer>That it may please him to bless and keep-the <hi>Magi<g ref="char:EOLhyphen"/>strates,</hi> giving them Grace to execute <hi>Justice,</hi> and maintain <hi>Truth, as it is in Jesus, and let</hi> All the People say, <hi>Amen.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
